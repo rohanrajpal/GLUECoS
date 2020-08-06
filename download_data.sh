@@ -388,14 +388,14 @@ function download_pos_en_es {
 }
 
 get_transliterations
-download_lid_en_hi
-download_ner_en_hi
-download_pos_en_es
-download_pos_en_hi_fg
+# download_lid_en_hi
+# download_ner_en_hi
+# download_pos_en_es
+# download_pos_en_hi_fg
 download_sentiment_en_hi
-download_qa_en_hi
-download_pos_en_hi_ud
-download_nli_en_hi
-download_sentiment_en_es
-download_lid_en_es
-download_ner_en_es
+# download_qa_en_hi
+# download_pos_en_hi_ud
+# download_nli_en_hi
+# download_sentiment_en_es
+# download_lid_en_es
+# download_ner_en_es
